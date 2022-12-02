@@ -1,4 +1,4 @@
-## Hola Comoestas<img src="/giphy.gif" width="100px" height="40px">
+## Hola Comoestas!!<img src="/giphy.gif" width="100px" height="40px">
 
  Karthi here! Love to code and explore various domains! Full Stack Development <3
  <div><p> <img src="https://komarev.com/ghpvc/?username=KE2002&label=Profile Views&color=green&style=plastic" alt="Profile Views" /> </p>
