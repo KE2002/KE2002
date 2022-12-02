@@ -1,1 +1,5 @@
-## It's me, hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+## Hola Comoestas<img src="/giphy.gif" width="100px" height="40px">
+<br />
+# Karthi here! Love to code and explore various domains! 
+## 
+<br />
