@@ -1,15 +1,15 @@
 ## Hola Comoestas<img src="/giphy.gif" width="100px" height="40px">
 
  Karthi here! Love to code and explore various domains! Full Stack Development <3
- <p> <img src="https://komarev.com/ghpvc/?username=KE2002&label=Profile Views&color=green&style=plastic" alt="Profile Views" /> </p>
+ <div><p> <img src="https://komarev.com/ghpvc/?username=KE2002&label=Profile Views&color=green&style=plastic" alt="Profile Views" /> </p>
  <br />
+</div>
 
+[![Li](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][Li]
 ## Technologies I use
 
 
-
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)][VS]
-
 
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)][GCC]
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)][GCC]
@@ -28,7 +28,7 @@
 
 
 [twitter]: https://twitter.com/Akash2003M
-[linkedin]: https://www.linkedin.com/in/karthikeyan-e-34053823a
+[li]: https://www.linkedin.com/in/karthikeyan-e-34053823a
 [VS]: https://code.visualstudio.com/
 [Android Studio]: https://developer.android.com/studio
 [GCC]: https://gcc.gnu.org/
