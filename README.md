@@ -1,32 +1,34 @@
 ## Hola Comoestas<img src="/giphy.gif" width="100px" height="40px">
 
- Karthi here! Love to code and explore various domains! 
+ Karthi here! Love to code and explore various domains! Full Stack Development <3
+ <p> <img src="https://komarev.com/ghpvc/?username=KE2002&label=Profile Views&color=green&style=plastic" alt="Profile Views" /> </p>
+ <br />
 
-## Full Stack Development <3
+## Technologies I use
 
 
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)][VS]
 
-[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)][rust]
+
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)][GCC]
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)][GCC]
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)][HTML]
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)][CSS]
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)][JS]
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)][PY]
-[![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)][SOLIDITY]
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)][Flutter]
+
 [![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)][EXPO]
 [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)][NEST]
 [![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)][SVELTE]
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)][REACT]
 [![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)][NATIVE]
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)][TS]
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)][TF]
 
 
 [twitter]: https://twitter.com/Akash2003M
-[linkedin]: https://www.linkedin.com/in/akash-m-ba9765202/
+[linkedin]: https://www.linkedin.com/in/karthikeyan-e-34053823a
 [VS]: https://code.visualstudio.com/
 [Android Studio]: https://developer.android.com/studio
 [GCC]: https://gcc.gnu.org/
@@ -60,5 +62,5 @@
 [MA]: https://manjaro.org/
 [prisma]: https://www.prisma.io/
 [Fedora]: https://getfedora.org/
-
+[Flutter]: https://flutter.dev/
 
