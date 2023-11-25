@@ -1,13 +1,11 @@
 ## Hola Comoestas!!<img src="/giphy.gif" width="100px" height="40px">
 
  Karthi here! Love to code and explore various domains! Full Stack Development <3
- <div><p> <img src="https://komarev.com/ghpvc/?username=KE2002&label=Profile Views&color=green&style=plastic" alt="Profile Views" /> </p>
- <br />
-</div>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KE2002&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats" />
 
 [![Li](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][Li]
-## Technologies I use
+## Technologies I Use
 
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)][VS]
